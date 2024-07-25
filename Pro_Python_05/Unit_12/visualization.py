@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 #pip install seaborn
 
-st.title("Dự án phân tích dữ liệu bán hàng")
+st.title("Dự án phân tích Báo cáo bán hàng")
 st.write("Thực hiện bởi: ")
 # Đọc dữ liệu
 data = pd.read_csv("sales_data.csv")
