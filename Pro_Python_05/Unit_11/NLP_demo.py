@@ -3,9 +3,12 @@ import speech_recognition as sr
 import pyttsx3
 #pip install pyttsx3
 import pyaudio
-
-
 #pip install pyaudio
+"""
+  Khi gặp lỗi ModuleNotFoundError: No module named 'distutils'
+  thì phải cập nhật lại lib setuptools
+  pip install setuptools
+  """
 # Hàm chuyển văn bản thành âm thanh
 def text_to_speech(text, language='vi'):
   engine = pyttsx3.init()
