@@ -1,0 +1,14 @@
+/* CSS để tạo hiệu ứng chuyển đổi slide và định dạng */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
+  
+  .mySlides {
+    display: none;
+    padding: 80px;
+    text-align: center;
+  }
+  
+  /* Các style khác để tùy chỉnh giao diện */
