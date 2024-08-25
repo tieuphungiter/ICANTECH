@@ -26,4 +26,4 @@ Một số bài tập có sử dụng font icon, hocwebchuan sẽ sử dụng b�
 Với mỗi thành bao ngoài như `<section>` hay `<div>` ta cần sử dụng id hoặc class để thuận lợi cho việc layout sau này.
 
 # Ví dụ mẫu
-![Alt text](images\Screenshot_2.png "Hình ảnh ví vụ mẫu")
+![Alt text](https://github.com/tieuphungiter/ICANTECH/blob/main/Web_01/Unit_04/exercises_01/images/Screenshot_2.png "Hình ảnh ví vụ mẫu")
