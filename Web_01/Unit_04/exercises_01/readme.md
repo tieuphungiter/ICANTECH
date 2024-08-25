@@ -24,3 +24,6 @@ Một số bài tập có sử dụng font icon, hocwebchuan sẽ sử dụng b�
 
 Đối với các thành phần lớn gần nhau, theo các nhóm riêng biệt, ta dùng `<div>` để gom lại sẽ thuận lợi cho việc layout.
 Với mỗi thành bao ngoài như `<section>` hay `<div>` ta cần sử dụng id hoặc class để thuận lợi cho việc layout sau này.
+
+# Ví dụ mẫu
+![Alt text](images\Screenshot_2.png "Hình ảnh ví vụ mẫu")
