@@ -78,8 +78,7 @@ while running :
       win = True
     if win :
       text = font.render("HOW CAN YOU DO THIS" , True, PINK)
-      text_rect = text.get_render(center = (SCREEN_WIDTH//2,
-                                           SCREEN_HEIGHT//2))  
+      text_rect = text.get_render(center = (SCREEN_WIDTH//2,SCREEN_HEIGHT//2))  
       screen.blit(text,text_rect)
       pygame.display.flip()
 
